@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" name="GUI 1" cloudDestinationProperty="GUI 1" >
+  <component type="ImageViewer" name="ImageViewer1" cloudDestinationProperty="ImageViewer1" >
+  </component>
+  <component type="ImageViewer" name="ImageViewer2" cloudDestinationProperty="ImageViewer2" >
+  </component>
+  <component type="ImageViewer" name="ImageViewer3" cloudDestinationProperty="ImageViewer3" >
+  </component>
+  <component type="Container" name="Container" cloudDestinationProperty="Container" >
+    <component type="ImageViewer" name="ImageViewer" cloudDestinationProperty="ImageViewer" >
+      <custom name="image" type="com.codename1.ui.Image" value="hiking-header.jpg" />
+    </component>
+  </component>
+</component>
